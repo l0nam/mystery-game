@@ -34,3 +34,5 @@ The code is free to study and modify, but remember: **some things are not meant 
 > _"The answer is sometimes closer than it seems. The key is asking the right question."_  
 
 ![Screenshot_176](https://github.com/user-attachments/assets/bb691753-834c-4ecf-ae4d-c6da7f81c85a)
+↑↑↑↑↑↑↑↑↑
+Единственный человек, который решил загадку. (мой друк (Никита (from Estonia)))
