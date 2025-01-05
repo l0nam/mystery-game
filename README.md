@@ -27,15 +27,6 @@ Some features may seem useless at first glance, but sometimes, it's not the prog
 
 ---
 
-## 📂 File Structure  
-- `index.html` — Main page.  
-- `styles.css` — Minimalist styling.  
-- `scripts.js` — Basic logic.  
-- `assets/` — Additional resources.  
-- `README.md` — This file.  
-
----
-
 ## 🚀 Additional Notes  
 This project was conceived as a conceptual experiment. Some aspects have been intentionally hidden, while others remain unfinished.  
 The code is free to study and modify, but remember: **some things are not meant for everyone**.  
