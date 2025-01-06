@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply m-0 p-0 transition-all duration-300;
+}
+
+body {
+  @apply flex flex-col items-center justify-center min-h-screen bg-black text-white text-center;
+}
+
+.container {
+  @apply flex flex-col items-center gap-3;
+}
+
+.btn {
+  @apply px-9 py-2 text-white border border-white text-[20px] select-none cursor-pointer hover:bg-white hover:text-[#000];
+}
+
+input {
+  @apply p-[10px] border border-white text-center bg-transparent text-[16px] outline-none focus:outline-none;
+}
+
+.name {
+  @apply font-bold text-yellow-400;
+}
